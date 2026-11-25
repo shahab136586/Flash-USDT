@@ -14,6 +14,13 @@ Coin Flashr is a USDT flashing software that lets users perform BTC and USDT fla
 
 https://github.com/flashusdtbangban/Flashusdt/assets/174153624/2b6226b4-6399-415b-8519-a79591faea8f
 
+**DEMOSTRATION GUIDE|**
+
+<a href="https://wa.me/447311130527">**Click- WhatsApp**</a>
+
+<a href="https://t.me/Cftbaze">**Click- Telegram Admin**.</a>
+
+
 Here’s how Flash USDT performs on various platforms:
 ![Image](https://i.ibb.co.com/6RTkQMT/Screenshot-2024-10-20-12-33-54-431-com-wallet-crypto-trustapp.jpg)
 
@@ -22,8 +29,6 @@ _Flash USDT in popular wallets like Binance, Trust Wallet, and more_
 
 ![Image](https://i.ibb.co.com/R4GNnhj/Screenshot-2024-10-20-12-34-13-931-com-wallet-crypto-trustapp.jpg)
 _See how fast and cheap Flash USDT transactions are!_
-
----
 
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
